@@ -73,10 +73,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Frontend UI` Here Some snap related 
 
+
+
 <img width="1440" alt="Screenshot 2022-09-26 at 9 04 22 PM" src="https://user-images.githubusercontent.com/44220728/192319762-89641c7a-1577-4dc9-8ad9-46c29c0e720d.png">
+
+
+
 
 
 
 <img width="1440" alt="Screenshot 2022-09-26 at 9 04 26 PM" src="https://user-images.githubusercontent.com/44220728/192319860-379e402b-f3f3-4e37-9e02-119700d6ce42.png">
 
-<img width="1440" alt="Screenshot 2022-09-26 at 9 04 22 PM" src="https://user-images.githubusercontent.com/44220728/192319762-89641c7a-1577-4dc9-8ad9-46c29c0e720d.png">
