@@ -1,0 +1,56 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.Header
+{
+    height: 4em;
+    margin: 0% 0% 0% 0%;
+}
+.logo
+{
+    margin: 1% 0% 0% 2%;
+    padding:0% 6% 0% 0%;
+    font-size: x-large;
+}
+.brand
+{
+    padding-top: 4%;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.serachEngine
+{
+    margin: 1% 0% 0% 10%;
+    background-color: rgb(239, 238, 238);;
+    height: 35px;
+    border: 1px solid rgb(239, 238, 238);;
+    border-radius: 8px;
+}
+.searchbar
+{
+    border: 0%;
+    outline: none;
+    background-color: rgb(239, 238, 238);
+    border: 0px;
+    margin: 1% 0% 0% 0%;
+}
+.searchIcon
+{
+    font-size: 100;
+    margin-right: 5%;
+    color: gray;
+}
+.break
+{
+    margin: 0%;
+}
+.facebookmessanger
+{
+    font-size:25px;
+    margin: 2% 0% 0% 0%;
+    color: black;
+    font-weight: 600;
+}

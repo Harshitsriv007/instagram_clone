@@ -1,0 +1,67 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.status
+{
+    border: 1px solid lightgray;
+    border-radius:5px ;
+    margin: 1% 0% 1% 0%;
+}
+.statussection
+{
+    padding: 0% 0% 0% 0%;
+}
+.statusImage
+{
+    width:60px;
+    height:60px;
+    margin: 15% 0% 15% 0%;
+}
+.statusname
+{
+    margin: 0%;
+    font-size:14px;
+    font-weight: 500;
+}
+.namesection
+{
+    margin: 7% 0% 0% 0%;
+    padding: 0%;
+}
+.statusForward
+{
+    font-size: 30px;
+}
+.profilePicsection
+{
+    margin: 5% 0% 0% 0%;
+    padding: 0%;
+}
+.profilePic
+{
+    height: 60px;
+    width:60px;
+}
+.SwicthSection
+{
+    margin: 0% 0% 0% 0% ;
+}
+.SwicthAccount
+{
+    text-decoration: none;
+    font-size: 14px;
+    margin: 15% 0% 0% 0%;
+    font-weight: 700;
+}
+.name
+{
+    font-weight: 800;
+}
+.fullname
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+}

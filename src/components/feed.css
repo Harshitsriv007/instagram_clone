@@ -1,0 +1,153 @@
+.feed
+{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 2%;
+}
+.feedheder
+{
+    margin: 2% 0% 0% 0%;
+}
+.feedownerimage
+{
+    width: 40px;
+    height: 40px;
+    margin: 3% 0% 0% 0%;
+}
+.feedownername
+{
+    margin: 1% 0% 0% 0%;
+}
+.feedownernamefont
+{
+    font-weight: 600;
+}
+.commentShow
+{
+    margin: 0% 0% 2% 1%;
+}
+.editfeed
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.feeduploaded
+{
+    margin: 1% 0% 0% 0%;
+    padding: 0% 0% 3% 0%;
+    width:100%;
+    height:100%;
+}
+.reacticons
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.ancherforcommentload
+{
+    text-decoration: none;
+    color: gray;
+    margin: 0% 0% 2% 0%;
+}
+.commentTime
+{
+    font-size: small;
+    color: gray;
+    margin: 1% 0% 2% 0%;
+}
+.Break
+{
+    margin: 0px;
+    padding: 0px;
+}
+.inputcomment
+{
+    height:3em;
+}
+.smilesection
+{
+    margin: 1% 0% 0% 0%;
+    padding: 0px;
+}
+.Smile
+{
+    font-size: 20px;
+}
+.textcomment
+{
+    border: 0px;
+    outline: none;
+}
+.postsectionbutton
+{
+    margin: 2% 0% 0% 0%;
+}
+.POST
+{
+    color: lightblue;
+    font-weight: 800;
+    font-size: 15px;
+}
+.suggestion
+{
+    font-size: 15px;
+    font-weight: 600;
+    color:gray;
+    padding: 0% 0% 0% 5%;
+}
+.seemoresuggestion
+{
+    font-size: 12px;
+    color: rgb(56, 56, 250);
+    font-weight: 600;
+    margin: 0% 0% 0% 5%;
+}
+.seeallanchor
+{
+    text-decoration: none;
+    color: black;
+}
+.suggestionspiclink
+{
+    width: 35px;
+    height: 35px;
+    margin: 15% 0% 0% 0%;
+}
+.followsection
+{
+    margin: 0% 0% 0% 7%;
+    padding: 0% 0% 0% 0%;
+    font-size: 13px;
+    font-weight: 800;
+}
+.followbutton
+{
+    text-decoration: none;
+}
+.followsectionarea
+{
+    margin: 0% 0% 4% 0%;
+}
+.suggestionsectionarea
+{
+    padding: 0% 0% 4% 0%;
+
+}
+.followsectionarealoop
+{
+    margin: 0% 0% 1% 0%;
+}
+.aboutsection
+{
+    margin: 0% 0% 1% 0%;
+}
+.about
+{
+    color: gray;
+    font-size: 12px;
+}
+.copywrite
+{
+    color: gray;
+    font-size: small;
+}
