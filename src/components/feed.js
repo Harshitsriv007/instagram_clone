@@ -238,6 +238,43 @@ export default function Feed()
                             <div className="col-sm-4 d-flex justify-content-start followsection"><a href="#" className="followbutton">Follow</a></div>
                         </div>
                         {/*  */}
+                        <div className="row followsectionarealoop">
+                            <div className="col-sm-2 suggestionsicon">
+                                <img src={avator} className="suggestionspiclink" />
+                            </div>
+                            <div className="col-sm-5 ">
+                                <div className="row">
+                                    <div className="col-sm-12 d-flex justify-content-start">{suggestionanme}</div>
+                                    <div className="col-sm-12 d-flex justify-content-start">{trimmedAtLength}</div>
+                                </div>
+                            </div>
+                            <div className="col-sm-4 d-flex justify-content-start followsection"><a href="#" className="followbutton">Follow</a></div>
+                        </div>
+                        {/*  */} <div className="row followsectionarealoop">
+                            <div className="col-sm-2 suggestionsicon">
+                                <img src={avator} className="suggestionspiclink" />
+                            </div>
+                            <div className="col-sm-5 ">
+                                <div className="row">
+                                    <div className="col-sm-12 d-flex justify-content-start">{suggestionanme}</div>
+                                    <div className="col-sm-12 d-flex justify-content-start">{trimmedAtLength}</div>
+                                </div>
+                            </div>
+                            <div className="col-sm-4 d-flex justify-content-start followsection"><a href="#" className="followbutton">Follow</a></div>
+                        </div>
+                        {/*  */} <div className="row followsectionarealoop">
+                            <div className="col-sm-2 suggestionsicon">
+                                <img src={avator} className="suggestionspiclink" />
+                            </div>
+                            <div className="col-sm-5 ">
+                                <div className="row">
+                                    <div className="col-sm-12 d-flex justify-content-start">{suggestionanme}</div>
+                                    <div className="col-sm-12 d-flex justify-content-start">{trimmedAtLength}</div>
+                                </div>
+                            </div>
+                            <div className="col-sm-4 d-flex justify-content-start followsection"><a href="#" className="followbutton">Follow</a></div>
+                        </div>
+                        {/*  */}
                     </div>
                     <div className="col-sm-12 aboutsection">
                         <div className="row">
