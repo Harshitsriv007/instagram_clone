@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/instagram_clone/static/css/main.7fbcbf04.css",
+    "main.js": "/instagram_clone/static/js/main.3bdb251b.js",
+    "static/js/787.9d576594.chunk.js": "/instagram_clone/static/js/787.9d576594.chunk.js",
+    "static/media/chuttersnap-oKfCxcKnCo8-unsplash.jpg": "/instagram_clone/static/media/chuttersnap-oKfCxcKnCo8-unsplash.f763b251dda5a0a30124.jpg",
+    "static/media/alexander-popov-3InMDrsuYrk-unsplash.jpg": "/instagram_clone/static/media/alexander-popov-3InMDrsuYrk-unsplash.7a979e374fb5913b318b.jpg",
+    "static/media/anders-jilden-GjwsHRIcQjU-unsplash.jpg": "/instagram_clone/static/media/anders-jilden-GjwsHRIcQjU-unsplash.36463dde8166a3b06c5d.jpg",
+    "static/media/kindpng_787127.png": "/instagram_clone/static/media/kindpng_787127.21d505ef076fb65b3111.png",
+    "index.html": "/instagram_clone/index.html",
+    "main.7fbcbf04.css.map": "/instagram_clone/static/css/main.7fbcbf04.css.map",
+    "main.3bdb251b.js.map": "/instagram_clone/static/js/main.3bdb251b.js.map",
+    "787.9d576594.chunk.js.map": "/instagram_clone/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbcbf04.css",
+    "static/js/main.3bdb251b.js"
+  ]
+}
